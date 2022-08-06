@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-probooks/static/css/main.f826e33c.css",
+    "main.js": "/react-probooks/static/js/main.76e315d6.js",
+    "static/js/787.1c3afade.chunk.js": "/react-probooks/static/js/787.1c3afade.chunk.js",
+    "index.html": "/react-probooks/index.html",
+    "main.f826e33c.css.map": "/react-probooks/static/css/main.f826e33c.css.map",
+    "main.76e315d6.js.map": "/react-probooks/static/js/main.76e315d6.js.map",
+    "787.1c3afade.chunk.js.map": "/react-probooks/static/js/787.1c3afade.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f826e33c.css",
+    "static/js/main.76e315d6.js"
+  ]
+}
